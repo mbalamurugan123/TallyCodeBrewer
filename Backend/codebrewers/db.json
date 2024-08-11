@@ -1,0 +1,90 @@
+{
+  "problems": [
+    {
+      "id": 1,
+      "title": "Two Sum",
+      "difficulty": "Easy",
+      "tags": [
+        "Array"
+      ],
+      "status": "Free",
+      "solved": true
+    },
+    {
+      "id": 2,
+      "title": "Add Two Numbers",
+      "difficulty": "Medium",
+      "tags": [
+        "Linked List"
+      ],
+      "status": "Locked",
+      "solved": false
+    }
+  ],
+  "topics": [
+    {
+      "id": 1,
+      "name": "Array",
+      "count": 1704,
+      "categories": [
+        "All Topics",
+        "Algorithms",
+        "Database"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "String",
+      "count": 713,
+      "categories": [
+        "All Topics",
+        "Algorithms",
+        "Concurrency"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Hash Table",
+      "count": 620,
+      "categories": [
+        "All Topics",
+        "Algorithms",
+        "Shell"
+      ]
+    }
+  ],
+  "filters": [
+    {
+      "name": "Lists",
+      "options": [
+        "Array",
+        "Linked List",
+        "Stack",
+        "Queue"
+      ]
+    },
+    {
+      "name": "Difficulty",
+      "options": [
+        "Easy",
+        "Medium",
+        "Hard"
+      ]
+    },
+    {
+      "name": "Status",
+      "options": [
+        "Solved",
+        "Unsolved"
+      ]
+    },
+    {
+      "name": "Tags",
+      "options": [
+        "Dynamic Programming",
+        "Greedy",
+        "Sorting"
+      ]
+    }
+  ]
+}
