@@ -1,0 +1,23 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+textarea {
+  width: 100%;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+}
+
+button {
+  margin-bottom: 20px;
+}
+
+.output {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: left;
+  max-height: 300px;
+  overflow-y: auto;
+}
