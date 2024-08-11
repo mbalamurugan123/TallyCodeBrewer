@@ -1,0 +1,33 @@
+.code_editor_left{
+    float: left;
+    width: 40%;
+    height:100vh;
+    /* background-color: aqua; */
+    overflow-y: auto;
+}
+.code_editor_right{
+    float: right;
+    width:60%;
+    height: 100vh;
+
+}
+/* #prob_desc{
+    font-weight: bolder;
+    font-size: 175%;
+    padding: 2%;
+    
+} */
+#prob_desc {
+    font-weight: bolder;
+    font-size: 175%;
+    padding: 2%;
+    max-height: 400px; /* Adjust this value as needed */
+    overflow-y: auto;  /* Enables vertical scrolling if needed */
+    
+}
+
+.question{
+    padding: 2%;
+    font-size: 150%;
+    
+}
